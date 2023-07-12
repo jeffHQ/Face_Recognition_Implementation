@@ -16,13 +16,13 @@ Para ejecutar la aplicación, se requiere tener instaladas las siguientes biblio
   
 Puedes instalar estas bibliotecas utilizando el administrador de paquetes `pip`. Por ejemplo:
 
-pip install tkinter
-pip install Pillow
-pip install face_recognition
-pip install numpy
-pip install heapq
-pip install Rtree
-pip install scipy
+-pip install `tkinter`
+-pip install `Pillow`
+-pip install `face_recognition`
+-pip install `numpy`
+-pip install `heapq`
+-pip install `Rtree`
+-pip install `scipy`
 
 ## Uso
 
