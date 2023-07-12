@@ -135,6 +135,14 @@ Se realizaron experimentos para evaluar el rendimiento y la eficacia de los dife
 | R-tree        | 2.38                                  | 0.92               |
 | KD-tree       | 1.05                                  | 0.95  
 
+## Conclusiones
+
+- El enfoque secuencial es simple pero ineficiente para conjuntos de datos grandes y consultas frecuentes.
+- R-tree y KD-tree mejoran el rendimiento y la eficacia de la búsqueda de vecinos más cercanos.
+- R-tree es especialmente útil en consultas de rango y datos espaciales.
+- KD-tree funciona bien en espacios de alta dimensión, pero puede verse afectado por la maldición de la dimensionalidad.
+- La elección del algoritmo depende de la naturaleza del problema, el tamaño del conjunto de datos y las características específicas de los datos.
+
 ## Contribución
 
 Si deseas contribuir a este proyecto, puedes hacerlo de las siguientes maneras:
