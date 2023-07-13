@@ -138,7 +138,7 @@ El PCA es una técnica ampliamente utilizada para reducir la dimensionalidad de 
 - El PCA es útil para reducir la dimensionalidad de los datos al eliminar las correlaciones entre las características y capturar la mayor cantidad de información posible en un número reducido de componentes principales.
 
 ## LDA (Análisis Discriminante Lineal)
-- El LDA es una técnica utilizada para encontrar las características que mejor discriminan entre diferentes clases o categorías en los datos. A diferencia del PCA, el LDA tiene en cuenta la información de las etiquetas o clases asociadas a los datos.
+El LDA es una técnica utilizada para encontrar las características que mejor discriminan entre diferentes clases o categorías en los datos. A diferencia del PCA, el LDA tiene en cuenta la información de las etiquetas o clases asociadas a los datos.
 
 ### Pasos para realizar el LDA:
 
