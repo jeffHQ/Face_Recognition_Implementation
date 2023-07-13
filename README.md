@@ -129,11 +129,11 @@ Es importante tener en cuenta que la elección del algoritmo y las técnicas de 
 
 Se realizaron experimentos para evaluar el rendimiento y la eficacia de los diferentes algoritmos en la búsqueda de vecinos más cercanos en datos de imágenes faciales. Los resultados se resumen en las siguientes tablas y gráficos:
 
-| Algoritmo     | Tiempo Promedio de Búsqueda (segundos) | Precisión Promedio |
-|---------------|---------------------------------------|--------------------|
-| KNN Secuencial| 12.53                                 | 0.85               |
-| R-tree        | 2.38                                  | 0.92               |
-| KD-tree       | 1.05                                  | 0.95  
+![Texto alternativo](db/foto1.jpg)
+En el primer análisis podemos ver los tiempos de los 3 métodos de búsqueda, ademas del tiempo de indexación del R-Tree.
+
+![Texto alternativo](db/foto2.jpg)
+En el segundo análisis podemos ver solo los tiempos de los 3 métodos de búsqueda.
 
 ## Conclusiones
 
